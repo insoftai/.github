@@ -1,5 +1,5 @@
 ## Hi there 👋! This is Insoft AI
-We are developing new AI environments where businesses can achieve success through tailored AI solutions. We offer top-notch solutions for Fintech, Healthcare, and Data Analysis industries. Customize with us.
+We are developing new AI environments where businesses can achieve success through tailored AI solutions. We offer top-notch solutions for Fintech, Healthcare, and Data Analysis industries. Customize yours with us.
 
 <!--
 
